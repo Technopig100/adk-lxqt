@@ -1,0 +1,9 @@
+RELEASE=23.02
+CODENAME=green
+EDITION="LXQt"
+DESCRIPTION="ADK-Linux 23.02 Green"
+DESKTOP=LXQt
+TOOLKIT=Qt
+RELEASE_NOTES_URL=https://github.com/Technopig100/whatsnew.git
+USER_GUIDE_URL=https://wiki.archlinux.org/title/Main_page
+GRUB_TITLE=ADK-Linux 23.02 Green
